@@ -47,7 +47,7 @@ The full source code of my high school senior year project - controlling a broke
 <table align="center">
 <tr>
 	<th align="left">Arduino Port</td>
-	<th align="left">Relais</td>
+	<th align="left">Relay</td>
 	<th align="left">Description</td>
 </tr>
 <tr>
